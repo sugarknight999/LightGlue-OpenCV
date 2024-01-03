@@ -27,7 +27,7 @@ python demo_camera.py
 
 ## 效果
 结果如图所示
-<video src="https://live.csdn.net/v/356455"></video>
+<video src="https://live.csdn.net/v/356455?spm=1001.2014.3001.5501"></video>
 
 ### 项目代码是作者边学习边尝试修改的,代码中含有非常详细的注释,欢迎大家一起学习指正
 
