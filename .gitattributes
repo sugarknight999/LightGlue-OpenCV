@@ -1,3 +1,5 @@
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
 *.txt linguist-language=Python
 *.js linguist-language=Python
 *.css linguist-language=Python
